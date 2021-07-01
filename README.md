@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62)
-- Live Site URL: [Netlify Host](https://gonzalo-gauna-card-practice1.netlify.app/)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/huddle-landing-page-using-flexbox-and-grid-xDLE93Iml)
+- Live Site URL: [Netlify Host](https://gonzalogauna-fm3.netlify.app/)
 
 ## My process
 
